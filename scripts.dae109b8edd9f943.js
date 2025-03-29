@@ -1,0 +1,1 @@
+function angularJs(){let e=document.querySelector(".audio");document.addEventListener("click",function(o){e.play()},{once:!0})}function About(){let e=document.querySelector(".cancle"),o=document.querySelector(".video");e.onclick=function(){o.pause()},console.log("stop")}
