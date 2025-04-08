@@ -1,1 +1,0 @@
-function angular(){}function angularFood(){}function About(){}
